@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior student of The Hong Kong University of Science and Technology(HKUST), majoring in Physics. I'm currently working with Prof [Tao Liu](https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=38). In 2023 Summer, I have an opportunity to study as a summer student at CERN with Prof[Deepak Kar](https://atlas.cern/authors/deepak-kar).
 
-<span style="color:blue">I am looking for a PHD/Msc position in 2024 Fall!</span>
+<span style="color:blue">I am looking for a PHD position for particle physics in 2024 Fall!</span>
 
 
 Research Interest
