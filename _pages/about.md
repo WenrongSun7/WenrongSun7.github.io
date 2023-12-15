@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student of The Hong Kong University of Science and Technology(HKUST), majoring in Physics. I'm currently working with Prof [Tao Liu](https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=38). In 2023 Summer, I have an opportunity to study as a summer student at CERN with Prof[Deepak Kar](https://atlas.cern/authors/deepak-kar).
+I'm a senior student of The Hong Kong University of Science and Technology(HKUST), majoring in Physics. I'm currently working with Prof [Tao Liu](https://physics.ust.hk/eng/people_detail.php?pplcat=1&id=38). In 2023 Summer, I have an opportunity to study as a summer student at CERN with Prof [Deepak Kar](https://atlas.cern/authors/deepak-kar).
 
 <span style="color:blue">I am looking for a PHD position for particle physics in 2024 Fall!</span>
 
@@ -46,6 +46,9 @@ Research Papers
 * [Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders]() \
   **<ins>Wenrong Sun\*</ins>** \
   Accepted by Applied Mathematics and Nonlinear Sciences
+
+* [Probing signal characteristics of a maverick top decaying to a dark photon](http://cds.cern.ch/record/2866228?ln=zh_CN) \
+  **<ins>Wenrong Sun\*</ins>** 2023 - drpress.org. 978-1-62437-680-1 Vol. 38 (2023)
   
 
 
