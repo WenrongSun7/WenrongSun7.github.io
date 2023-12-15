@@ -25,10 +25,17 @@ Research Experience
   Advisor: Hannah van der Schyf, Professor Deepak Kar
 
 * Research Study at HKUST \
-  
+  The Study of WIMP Dark Matter, Wave Dark Matter, Grand Unified Theory, and Cosmological Parity Violation  ![image](https://github.com/WenrongSun7/WenrongSun7.github.io/assets/153833459/6f606ee2-bcb6-4dae-884e-ba02b4169625)
   Advisor: Professor Tao Liu
 
-* Online Research 
+* Online Research 1
+  Introduction to Particle Physics (Summer Research Seminar)
+  Advisor: Prof. Mario Campanelli
+
+* Online Research 2
+  Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders
+
+
 
 Research Papers
 ------
@@ -38,7 +45,8 @@ Research Papers
   
 * [Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders]() \
   **<ins>Wenrong Sun\*</ins>** \
-  Submitted to Applied Mathematics and Nonlinear Sciences
+  Accepted by Applied Mathematics and Nonlinear Sciences
+  
 
 
 
