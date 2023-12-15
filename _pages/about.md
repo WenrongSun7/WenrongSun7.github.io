@@ -24,15 +24,15 @@ Research Experience
   Probing signal characteristics of a maverick top decaying to a dark photon\
   Advisor: Hannah van der Schyf, Professor Deepak Kar
 
-* Research Study at HKUST \
-  The Study of WIMP Dark Matter, Wave Dark Matter, Grand Unified Theory, and Cosmological Parity Violation  ![image](https://github.com/WenrongSun7/WenrongSun7.github.io/assets/153833459/6f606ee2-bcb6-4dae-884e-ba02b4169625)
+* Research Study at HKUST\
+  The Study of WIMP Dark Matter, Wave Dark Matter, Grand Unified Theory, and Cosmological Parity Violation\
   Advisor: Professor Tao Liu
 
-* Online Research 1
-  Introduction to Particle Physics (Summer Research Seminar)
+* Online Research 1\
+  Introduction to Particle Physics (Summer Research Seminar)\
   Advisor: Prof. Mario Campanelli
 
-* Online Research 2
+* Online Research 2\
   Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders
 
 
@@ -41,7 +41,7 @@ Research Papers
 ------
   
 * [Demonstration of Models and Detection Scenarios for WIMP and Axion](https://www.researchgate.net/publication/369467898_Demonstration_of_Models_and_Detection_Scenarios_for_WIMP_And_Axion) \
-  **<ins>Wenrong Sun\*</ins>**
+  **<ins>Wenrong Sun\*</ins>**\
   2023 - drpress.org. 978-1-62437-680-1 Vol. 38 (2023)
   
 * [Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders]() \
@@ -49,7 +49,7 @@ Research Papers
   Accepted by Applied Mathematics and Nonlinear Sciences
 
 * [Probing signal characteristics of a maverick top decaying to a dark photon](http://cds.cern.ch/record/2866228?ln=zh_CN) \
-  **<ins>Wenrong Sun\*</ins>**
+  **<ins>Wenrong Sun\*</ins>**\
   On CERN Document Service
   
 
