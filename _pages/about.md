@@ -41,14 +41,16 @@ Research Papers
 ------
   
 * [Demonstration of Models and Detection Scenarios for WIMP and Axion](https://www.researchgate.net/publication/369467898_Demonstration_of_Models_and_Detection_Scenarios_for_WIMP_And_Axion) \
-  **<ins>Wenrong Sun\*</ins>** 2023 - drpress.org. 978-1-62437-680-1 Vol. 38 (2023)
+  **<ins>Wenrong Sun\*</ins>**
+  2023 - drpress.org. 978-1-62437-680-1 Vol. 38 (2023)
   
 * [Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders]() \
   **<ins>Wenrong Sun\*</ins>** \
   Accepted by Applied Mathematics and Nonlinear Sciences
 
 * [Probing signal characteristics of a maverick top decaying to a dark photon](http://cds.cern.ch/record/2866228?ln=zh_CN) \
-  **<ins>Wenrong Sun\*</ins>** 2023 - drpress.org. 978-1-62437-680-1 Vol. 38 (2023)
+  **<ins>Wenrong Sun\*</ins>**
+  On CERN Document Service
   
 
 
