@@ -44,7 +44,7 @@ Research Papers
   **<ins>Wenrong Sun\*</ins>**\
   2023 - drpress.org. 978-1-62437-680-1 Vol. 38 (2023)
   
-* [Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders]() \
+* [Mechanism of singlet-like vector lepton production and Higgs auto coupling in future positive negative electric lepton colliders](https://github.com/WenrongSun7/pp/blob/main/Mechanism%20of%20Singlet-like%20Vector%20Lepton%20ProductionandHiggs%20Autocoupling%20in%20Future%20Positive-negative%20ElectricLepton%20Colliders.pdf) \
   **<ins>Wenrong Sun\*</ins>** \
   Accepted by Applied Mathematics and Nonlinear Sciences
 
